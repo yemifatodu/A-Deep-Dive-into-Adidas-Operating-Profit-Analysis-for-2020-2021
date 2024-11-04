@@ -162,6 +162,38 @@ Based on these observations, the following strategic recommendations can enhance
 5. **Monitor Market Trends**:
    - Stay alert to market trends and shifts in consumer behavior, especially as the retail landscape evolves. Adjusting strategies to align with these trends will be essential for sustaining profitability.
 
+---
+
+## Visualizations of Adidas Operating Profit Analysis
+
+- **Total Operating Profit Per Year**  
+  ![TOTAL OPERATING PROFIT PER YEAR](https://github.com/yemifatodu/A-Deep-Dive-into-Adidas-Operating-Profit-Analysis-for-2020-2021/blob/main/TOTAL%20OPERATING%20PROFIT%20PER%20YEAR.jpg)
+
+- **Total Operating Profit by Region**  
+  ![TOTAL OPERATING PROFIT BY REGION](https://github.com/yemifatodu/A-Deep-Dive-into-Adidas-Operating-Profit-Analysis-for-2020-2021/blob/main/TOTAL%20OPERATING%20PROFIT%20BY%20REGION.jpg)
+
+- **Total Operating Profit by Product Per Year**  
+  ![TOTAL OPERATING PROFIT BY PRODUCT PER YEAR](https://github.com/yemifatodu/A-Deep-Dive-into-Adidas-Operating-Profit-Analysis-for-2020-2021/blob/main/TOTAL%20OPERATING%20PROFIT%20BY%20PRODUCT%20PER%20YEAR.jpg)
+
+- **Sales Method for Each Year**  
+  ![SALES METHOD FOR EACH YEAR](https://github.com/yemifatodu/A-Deep-Dive-into-Adidas-Operating-Profit-Analysis-for-2020-2021/blob/main/SALES%20METHOD%20FOR%20EACH%20YEAR.jpg)
+
+- **Percentage Change Yearly**  
+  ![PERCENTAGE CHANGE YEARLY](https://github.com/yemifatodu/A-Deep-Dive-into-Adidas-Operating-Profit-Analysis-for-2020-2021/blob/main/PERCENTAGE%20CHANGE%20YEARLY.jpg)
+
+- **Operating Profit of Product by Year**  
+  ![OPERATING PROFIT OF PRODUCT BY YEAR](https://github.com/yemifatodu/A-Deep-Dive-into-Adidas-Operating-Profit-Analysis-for-2020-2021/blob/main/OPERATING%20PROFIT%20OF%20PRODUCT%20BY%20YEAR.jpg)
+
+- **Operating Profit by Region Compared to Sales Method**  
+  ![OPERATING PROFIT BY REGION COMPARE TO SALES METHOD](https://github.com/yemifatodu/A-Deep-Dive-into-Adidas-Operating-Profit-Analysis-for-2020-2021/blob/main/OPERATING%20PROFIT%20BY%20REGION%20COMPARE%20TO%20SALES%20METHOD.jpg)
+
+- **Most Profitable Year**  
+  ![MOST PROFITABLE YEAR](https://github.com/yemifatodu/A-Deep-Dive-into-Adidas-Operating-Profit-Analysis-for-2020-2021/blob/main/MOST%20PRIFITABLE%20YEAR.jpg)
+
+- **Change in Profit by Region**  
+  ![CHANGE IN PROFIT BY REGION](https://github.com/yemifatodu/A-Deep-Dive-into-Adidas-Operating-Profit-Analysis-for-2020-2021/blob/main/CHANGE%20IN%20PROFIT%20BY%20REGION.jpg)
+
+---
 ### Summary
 
 The breakdown of operating profit by retailer reveals crucial insights into Adidas's performance across different sales channels. By leveraging the strengths of top-performing retailers and tailoring strategies to align with regional dynamics, Adidas can enhance its market presence and improve future profitability. 
